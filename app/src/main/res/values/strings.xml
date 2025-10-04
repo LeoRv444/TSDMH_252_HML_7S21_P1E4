@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_252_HML_7S21_P1E4</string>}
+    <string name="t1p1">Paso de parametros entre actividades</string>
+    <string name="p1lbl1">Ingresa tu nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1btn1">Saludar</string>
+
+    <string name="p2t1">Pantalla de saludo</string>
+</resources>
